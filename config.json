@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingdalidate",
+        "uuid": 13412184,
+        "checksum": "r1krn"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
